@@ -1,0 +1,40 @@
+body{
+    background-color: gainsboro;
+}
+img{
+    width: 15%;
+    
+}
+#a1 {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+li {
+    float: right;
+  }
+  
+.abc a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  /* Change the link color to #111 (black) on hover */
+  li a:hover {
+    background-color: #111;
+  }
+  th, td { 
+    width:150px; 
+    text-align:center; 
+    padding:5px 
+}
+h1{
+    text-align: center;
+} 
+
